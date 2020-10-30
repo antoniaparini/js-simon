@@ -23,13 +23,13 @@ alert(arrayNumeri);
 console.log(arrayNumeri);
 
 //Inserisco setTimeout
-/**
+/**                
  * Sintassi
  * setTimeout(nomeFunzione,TempoDaAspettare);
  * 
  */
 
-setTimeout(promptResult, 1000);
+setTimeout(promptResult, 30000);
 
 
 
